@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Developer PowerShell for VS 2022",
+  "cmake.generator": "Ninja",
+  "cmake.configureEnvironment": {
+    "CC":  "D:/clang+llvm-22.1.0-x86_64-pc-windows-msvc/bin/clang.exe",
+    "CXX": "D:/clang+llvm-22.1.0-x86_64-pc-windows-msvc/bin/clang++.exe"
+  }
+}
+
